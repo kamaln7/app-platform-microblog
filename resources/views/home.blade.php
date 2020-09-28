@@ -28,7 +28,7 @@
     </div>
 </div>
 @empty
-<p>There are no posts on this micro-blog yet :(</p>
+<p>There are no posts on this microblog yet :(</p>
 @endforelse
 </div>
 
